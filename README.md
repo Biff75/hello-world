@@ -1,2 +1,3 @@
 # hello-world
-my 1st ever repository 
+This my first ever repository.
+Today is Friday, August 5th, 2016.
